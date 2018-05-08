@@ -5,8 +5,8 @@
     - tags
       - tag1
         - 2018/05/01
-        - urls.json
-        - articles.json
+          - urls.json
+          - articles.json
         - ...
       - ...
     - users 
@@ -37,7 +37,6 @@ articles.json contains the links, titles, and texts of articles
      - data-science
      - nlp
      - naturallanguageprocessing
-     
        - Under each tag:
          - Top stories: https://medium.com/tag/neural-networks
          - Latest Stories: https://medium.com/tag/neural-networks/latest
