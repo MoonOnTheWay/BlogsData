@@ -1,0 +1,212 @@
+[
+    {
+        "url": "https://medium.com/altoros-blog/building-recommenders-with-multilayer-perceptron-using-tensorflow-47c16092a0d5?source=user_profile---------1----------------",
+        "title": "Building Recommenders with Multilayer Perceptron Using TensorFlow",
+        "text": "Recommenders are widely used by e-commerce and multimedia companies worldwide to provide relevant items to a user. There exists a variety of different algorithms and models to tackle the problem of finding the best product in retail, telco, and other industries. This blog post explores the techniques to improve recommendations using matrix factorization, multilayer perceptron, negative sampling, etc. with TensorFlow. The article also highlights recent advancements in deep learning solutions to further achieve highly personalized recommendations.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/kubernetes-kubectl-cli-cheat-sheet-4071af394fe6?source=user_profile---------2----------------",
+        "title": "Kubernetes kubectl CLI Cheat Sheet \u2013 Altoros Blog \u2013",
+        "text": "Kubernetes provides an open-source system to automatically deploy, scale, and manage containers. With the kubectl command-line interface (CLI), one is able to run commands against Kubernetes clusters. Introducing a user to configuring the CLI, this cheat sheet features a set of essential commands to manage a cluster and collect data from it. The document also explains how to create, group, update, and delete cluster resources. In addition, you will learn how to debug Kubernetes pods, as well as manage configmaps and secrets.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/automotive-insurance-with-tensorflow-estimating-damage-and-repair-costs-16cef9d281f6?source=user_profile---------3----------------",
+        "title": "Automotive Insurance with TensorFlow: Estimating Damage and Repair Costs",
+        "text": "This blog post highlights how AI tools, such as TensorFlow and Keras, can help insurers to automate damage assessment and avoid overcharging by a car parts supplier.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/evaluating-the-new-pivotal-container-service-for-kubernetes-clusters-973778f83898?source=user_profile---------4----------------",
+        "title": "Evaluating the New Pivotal Container Service for Kubernetes Clusters",
+        "text": "Recently, Pivotal has announced general availability of Pivotal Container Service (PKS). As the service was launched, our engineers tried it out to see what\u2019s in there from a user perspective. In this blog post, we share our findings related to the ease of installation, functionality, security, supported integrations, and available documentation.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/concourse-fly-cli-cheat-sheet-a8edbebe902a?source=user_profile---------5----------------",
+        "title": "Concourse FLY CLI Cheat Sheet \u2013 Altoros Blog \u2013",
+        "text": "Being a pipelined-based continuous integration tool, Concourse is a popular choice when it comes to enabling CI/CD for applications built with Cloud Foundry. The Fly tool provides a command line interface to Concourse. With Fly, one is able to carry out a range of tasks in a faster manner \u2014 from connecting to a shell in the build\u2019s container to uploading new pipeline configuration into a running Concourse. Explaining how to get started with the Fly CLI, this cheat sheet compiles useful commands for managing Concourse teams, resources, jobs, and pipelines. The cheat sheet also encapsulates a set of commands efficient when troubleshooting pipelines.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/introducing-selfportal-the-panel-to-launch-virtual-machines-in-a-few-clicks-baa21d4460bc?source=user_profile---------6----------------",
+        "title": "Introducing SelfPortal: The Panel to Launch Virtual Machines in a Few Clicks",
+        "text": "To get virtual machines up and running, it\u2019s a common practice in many companies that a developer creates a task for a system engineer. It may result in waiting on infrastructure to be ready for an hour on average or more. Altoros open-sources the SelfPortal panel \u2014 a self-service tool that enables developers to automatically run, modify, or delete virtual machines, as well as publish web applications. Currently, the solution provides support for OpenStack and vSphere. The project is available under the Apache 2.0 license.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/@Altoros/kone-monitors-1-1m-elevators-and-escalators-with-ibm-bluemix-and-watson-iot-4c709e925a3b?source=user_profile---------7----------------",
+        "title": "KONE Monitors 1.1M Elevators and Escalators with IBM Bluemix and Watson IoT",
+        "text": "This blog post explores how KONE \u2014 one of the world\u2019s leading elevator / escalator manufacturers \u2014 ensured predictive maintenance across its equipment fleet. Built with Watson IoT on Bluemix, the company\u2019s 24/7 Connected Services enable maintenance operators to monitor the equipment across 200+ safety-related parameters, while allowing building residents to remotely call an elevator.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/@Altoros/blockchain-for-insurance-from-preventing-fraud-to-automating-claims-28334c0d0ffe?source=user_profile---------8----------------",
+        "title": "Blockchain for Insurance: From Preventing Fraud to Automating Claims",
+        "text": "Insurance is exposed to a variety of fraudulent schemes: from sharing an insurance plan after divorce to withholding critical information that may influence risk assessment. In this regard, blockchain can address some of the pain points found in the insurance industry. This study explains how the technology helps to improve security, mitigate fraud, automate record sharing between organizations, and cut operational costs. Finally, the paper covers some technical aspects of implementation and highlights scenarios where blockchain fits best.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/hidden-tricks-of-jenkins-to-bolster-continuous-integration-on-pivotal-cloud-foundry-45d0f859b08b?source=user_profile---------9----------------",
+        "title": "Hidden Tricks of Jenkins to Bolster Continuous Integration on Pivotal Cloud Foundry",
+        "text": "Due to the ease of installation / use / setup, Jenkins is one of the popular solutions developers use for continuous integration and continuous delivery. This blog post explores underrated features in Jenkins, such as plugins for generating, editing, and debugging code. In addition, the article looks into the container options available for Jenkins, as well as highlights the Jenkins tile for Pivotal CF, which further improves the tool\u2019s integration with the platform.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/bosch-connects-6-million-devices-with-pivotal-cloud-foundry-a45c6bfbf6c5?source=user_profile---------10----------------",
+        "title": "Bosch Connects 6 Million Devices with Pivotal Cloud Foundry",
+        "text": "Addressing specific needs in the Internet of Things domain, Bosch launched an IoT Cloud, making Bosch IoT Suite available as a PaaS. The blog post explores how the company made use of Pivotal Cloud Foundry to ensure scalability, compatibility with a range of IaaS providers, and accelerate development. In addition to the achievements and challenges, the article also features examples of innovative solutions \u2014 built with Bosch IoT Cloud \u2014 already available for connected cars, smart homes, etc.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/csaa-insurance-group-deploys-three-times-a-day-with-cloud-foundry-91a64b47631f?source=user_profile---------11----------------",
+        "title": "CSAA Insurance Group Deploys Three Times a Day with Cloud Foundry",
+        "text": "Starting its digital transformation, CSAA \u2014 a 104-year-old company \u2014 aspired to address the pain points within the development process, while making a major cultural shift. The blog post shares how Cloud Foundry helped the company to enable continuous integration and accelerate deployment frequency by over 1,000%. In addition, the article shares challenges faced when adopting the PaaS, as well as the lessons learned from the process.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/using-centralized-logs-and-metrics-to-monitor-cloud-foundry-across-all-levels-7a95401f61b7?source=user_profile---------12----------------",
+        "title": "Using Centralized Logs and Metrics to Monitor Cloud Foundry Across All Levels",
+        "text": "Cloud Foundry deployments are complex multi-layer ecosystems, and monitoring is essential to better understand them. The blog post shares some tips on simplifying the process with centralized logs and comprehensive metrics across all layers \u2014 the IaaS, BOSH, the Cloud Foundry itself, apps, and backing services.\n\nRead the full article on our blog:\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/heartbeat-v1-0-provides-ha-for-full-stack-cloud-foundry-monitoring-227a8e98c809?source=user_profile---------13----------------",
+        "title": "Heartbeat v1.0 Provides HA for Full-Stack Cloud Foundry Monitoring",
+        "text": "Heartbeat is a full-stack monitoring tool, providing visibility across Cloud Foundry deployments. The blog post announces its GA release that enables high availability of metrics and the tool\u2019s components, while introducing increased scalability. From the article, you will also learn about Heartbeat\u2019s integrations with external services.\n\nRead the full article on our blog\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/mongodb-3-4-vs-couchbase-server-5-0-vs-datastax-enterprise-5-0-cassandra-b5d106693fa7?source=user_profile---------14----------------",
+        "title": "MongoDB 3.4 vs. Couchbase Server 5.0 vs. DataStax Enterprise 5.0 (Cassandra)",
+        "text": "Altoros has released a new technical comparison evaluating MongoDB v3.4, Couchbase Server v5.0, and DataStax Enterprise v5.0 (Cassandra). Featuring an in-depth scoring framework, the research paper analyzes the NoSQL solutions across 22 categories critical for most enterprise deployments.\n\nUnlike other NoSQL comparisons that focus only on one or two dimensions, this tech report approaches evaluated solutions from 22 angles to help decision makers choose the best option based on performance, availability, ease of installation and maintenance, data consistency, fault tolerance, replication, recovery, scalability, and other criteria. This blog post provides major highlights from the paper, which also includes recommendations on the best ways to configure, install, and use NoSQL databases depending on specific features.\n\nClick to read the full article on our blog\n\nStay in touch with the latest Altoros\u2019 updates, subscribe to our social accounts: Twitter, Facebook, LinkedIn, Reddit."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/solhint-an-advanced-linter-for-ethereums-solidity-e203a2cbb1be?source=user_profile---------15----------------",
+        "title": "Solhint: An Advanced Linter for Ethereum\u2019s Solidity",
+        "text": "The linting solutions available for detecting code vulnerabilities of the Solidity programming language \u2014 underlying smart contracts in Ethereum \u2014 mostly focus on the code compliance with the best linting practices. This blog post overviews a comprehensive Solhint linter that allows for detecting syntax-related security code vulnerabilities. Covering a wide range of validation rules, the tool also enables developers to add new ones, while complying with the Solidity style guide and granting 2x\u20134x boost in performance."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/why-is-oracle-betting-on-cloud-foundry-and-blockchain-956bc540ecbc?source=user_profile---------16----------------",
+        "title": "Why Is Oracle Betting on Cloud Foundry and Blockchain?",
+        "text": "Discussing the recent announcements of Oracle joining the Cloud Foundry ecosystem and the Hyperledger project, the blog post looks into the reasons behind the moves. The article looks into how the company tries out innovative technologies \u2014 from cloud platforms to blockchain \u2014 to further grow its business.\n\nClick to read the full article on our blog."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/quotes-and-thoughts-from-cloud-foundry-summit-europe-2017-94b736acf99?source=user_profile---------17----------------",
+        "title": "Quotes and Thoughts from Cloud Foundry Summit Europe 2017",
+        "text": "With 865 registered attendees, the Cloud Foundry Summit Europe 2017 featured a collection of success stories from new end users. This blog post shares thoughts and opinions about the experience with the platform from SAP, Allianz, Volkswagen, CSAA Insurance, Swisscom, Orange, and other major players. The article also brings up BOSH, containers, Kubernetes, microservices, and APIs, while highlighting attendees\u2019 ideas about the Cloud Foundry community, as well as open source in general.\n\nRead the full article on our blog."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/tips-and-tricks-to-monitor-a-cloud-foundry-deployment-across-all-levels-fa3c996b7bd?source=user_profile---------18----------------",
+        "title": "Tips and Tricks to Monitor a Cloud Foundry Deployment Across All Levels",
+        "text": "A real-life Cloud Foundry deployment involves several layers, starting with IaaS all the way to individual apps.The blog post shares best practices on what metrics it is essential to monitor within each layer, as well as overviews the tools to simplify the task. In addition, you will learn some general recommendations on how to keep your deployment up to date and under control.\n\nRead the full article on our blog:"
+    },
+    {
+        "url": "https://medium.com/altoros-blog/bringing-acubiz-apps-to-the-next-level-773752061cff?source=user_profile---------19----------------",
+        "title": "Bringing Acubiz\u2019 apps to the next level \u2013 Altoros Blog \u2013",
+        "text": "This autumn, Acubiz \u2014 in partnership with Altoros \u2014 launches a new mobile app to cater for 117,000 users worldwide. This blog post shares how the partners see the present and the future of mobile development and touches upon the strategic approaches that helped Altoros to improve Acubiz mobile apps."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/the-ecosystem-of-pcf-tiles-easier-deployment-and-upgrades-1d8925627732?source=user_profile---------20----------------",
+        "title": "The Ecosystem of PCF Tiles: Easier Deployment and Upgrades",
+        "text": "The tiles are integrations with third-party services for the Pivotal CF platform. Overviewing the integration offerings that cater for different needs and cloud infrastructures, the blog post looks into the tile structure and describes how they actually work. From this article, you will also learn which of the PCF tiles can help to enable continuous integration/ deployment, logging, monitoring, etc.\n\nRead the full article on our blog:"
+    },
+    {
+        "url": "https://medium.com/altoros-blog/t-mobile-slashes-production-time-from-7-months-to-days-with-cloud-foundry-37fd14ddfc90?source=user_profile---------21----------------",
+        "title": "T-Mobile Slashes Production Time from 7 Months to Days with Cloud Foundry",
+        "text": "Aspiring for a major transformation with the \u201cuncarrier\u201d initiative, T-Mobile has introduced a lot of internal technical innovations. The blog post explores how Cloud Foundry helped the company to speed up the release cycle, eliminate the scalability issues, and improve configuration management. In addition, the article overviews the role of a new DevOps culture and APIs in the transformation processes.\n\nRead the full article on our blog:"
+    },
+    {
+        "url": "https://medium.com/altoros-blog/digital-transformation-what-are-the-challenges-and-where-to-start-86958d0a9de?source=user_profile---------22----------------",
+        "title": "Digital Transformation: What Are the Challenges and Where to Start?",
+        "text": "In today\u2019s highly competitive business, digital transformation is seen as a way to help companies to innovate faster, pacing out their rivals. The blog post focuses on innovation labs as a driver of major improvements, exploring the challenges that can impair or slow down the required changes. Furthermore, it touches upon possible solutions to address the challenges, such as a transformation vision, a roadmap, and a proper methodology."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/blockchain-at-walmart-tracking-food-from-farm-to-fork-b4f332991fe4?source=user_profile---------23----------------",
+        "title": "Blockchain at Walmart: Tracking Food from Farm to Fork",
+        "text": "Food safety has always been an issue of global scale, with total costs ranging from $55.5 billion to $93.2 billion a year. The blog post explores how blockchain and IoT can improve transparency and traceability to address related concerns. In addition, the article investigates into the use of machine learning to improve supply chains, featuring examples of all the three technologies adopted in the food retail industry."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/blockchain-for-insurance-less-fraud-faster-claims-and-new-models-557bdd43ede8?source=user_profile---------24----------------",
+        "title": "Blockchain for Insurance: Less Fraud, Faster Claims, and New Models",
+        "text": "With finance and banking already affected by blockchain, the blog post explores the technology\u2019s potential for the insurance industry. The article looks into how distributed ledgers can help to mitigate fraud, enable privacy of shared information, as well as automate and speed up claiming and application processes. You will also find some examples of how insurance companies adopt blockchain for their needs \u2014 e.g., to create multinational policies."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/cloud-foundry-logging-using-elastic-stack-from-quantity-to-quality-b8236f8e93f8?source=user_profile---------25----------------",
+        "title": "Cloud Foundry Logging Using Elastic Stack: from Quantity to Quality",
+        "text": "This is the second part in a series of Cloud Foundry monitoring and logging webinars by Altoros. Logging everything generates a lot of data. This webinar covers the fundamentals, tips, and tricks of using a centralized, highly available logging solution to retrieve valuable data from logs across different use cases.\n\nWe\u2019ll start with an overview of what you need to know about some of the most widely used log search and analytics tools: Elasticsearch, Logstash, and their Cloud Foundry-specific extension. We\u2019ll also see what Cloud Foundry logs shall be collected in the first place. Then we will push a sample app to the Cloud Foundry platform and discover how to view its basic logs. Finally, we\u2019ll extract (parse) custom logs using a Logstash grok filter.\n\nWhat you will learn:\n\nWho should join this webinar:\n\nThis webinar will be of interest to developers and operators who want to learn how to use the Elastic Stack (and Logsearch, its extension for working with Cloud Foundry logs) to efficiently manage and analyze logs."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/automotive-blockchain-from-manufacturing-to-security-to-insurance-5a7ea18f0f6f?source=user_profile---------26----------------",
+        "title": "Automotive Blockchain: from Manufacturing to Security to Insurance",
+        "text": "Blockchain is one of the technologies on the investment list of the automotive industry. The blog post investigates into how the technology can help to track provenance of car parts, protect smart cars from hacks, and secure car apps. Other described scenarios include speeding up development of fully automated cars and enabling dynamic pricing for car insurance and financing."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/digital-twins-for-aerospace-better-fleet-reliability-and-performance-9b7709416350?source=user_profile---------27----------------",
+        "title": "Digital Twins for Aerospace: Better Fleet Reliability and Performance",
+        "text": "Named by Gartner as one of the strategic trends for 2017, digital twins have so far impacted manufacturing, oil, and a range of other industries. The blog post explores how the trend affected aerospace, helping to improve performance and reliability of the fleet and provide substantial cost savings. You will find examples of major industry players \u2014 NASA, Airbus SE, Lockheed Martin, etc. \u2014 leveraging digital twins to address their needs."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/altoros-heartbeat-adds-full-stack-monitoring-for-pivotal-cloud-foundry-36e0eb47bbd7?source=user_profile---------28----------------",
+        "title": "Altoros Heartbeat Adds Full-Stack Monitoring for Pivotal Cloud Foundry",
+        "text": "Originally released in May 2017, Altoros Heartbeat is a full-stack monitoring tool for Cloud Foundry. The blog post announces its integration with Pivotal Cloud Foundry (PCF), detailing the capabilities of the new service and its value for PCF users."
+    },
+    {
+        "url": "https://medium.com/digital-diplomacy/governments-can-improve-transparency-and-data-reliability-with-blockchain-8966e9b2f960?source=user_profile---------29----------------",
+        "title": "Governments Can Improve Transparency and Data Reliability with Blockchain",
+        "text": "Blockchain is now strengthening its presence in the public sector, with governments around the globe showing increasing interest in adopting it. The blog post explores how the technology can assist public authorities in resolving their critical issues, highlighting possible limitations. It also features possible blockchain implementations for registries based on an Australian study and shares examples of governments already using blockchain."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/cloud-foundry-advisory-board-meeting-jul-2017-cf-deployment-is-3-weeks-out-25555612e962?source=user_profile---------30----------------",
+        "title": "Cloud Foundry Advisory Board Meeting, Jul 2017: cf-deployment Is 3 Weeks Out",
+        "text": "July CAB mainly focused on the cf-deployment updates, the major of them being a canonical manifest claimed to enable a culture of continuous deployment. In addition, the meeting featured reports on BOSH backup and restore, as well as on such aspects of Cloud Foundry as CAPI, c2c, and Istio/Envoy. Read our meeting report for further details."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/relying-on-docker-to-update-industrial-asset-management-systems-faster-a1dd53dba620?source=user_profile---------31----------------",
+        "title": "Relying on Docker to Update Industrial Asset Management Systems Faster",
+        "text": "Asset performance management (APM) provides real-time insights into the health of industrial machines and equipment. The blog post explores the issues related to maintaining the APM systems on-premises and how Docker and containerization can assist in managing edge deployments."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/cloud-foundry-and-gcp-machine-learning-storage-and-debugging-b8d6ca13d1f3?source=user_profile---------32----------------",
+        "title": "Cloud Foundry and GCP: Machine Learning, Storage, and Debugging",
+        "text": "With a recently implemented service broker for Google Cloud Platform (GCP), Cloud Foundry users got access to a variety of APIs. The blog post overviews such machine learning APIs as Translation, Natural Language, Cloud Speech, Video Intelligence, and Cloud Vision, highlighting the benefits of combining them. In addition, the article features the Stackdriver tool \u2014 offered as part of GCP \u2014 which can be used to enable live debugging for an app already pushed to Cloud Foundry."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/blockchain-as-a-service-running-cloud-foundry-apps-on-ethereum-6c949382caf7?source=user_profile---------33----------------",
+        "title": "Blockchain as a Service: Running Cloud Foundry Apps on Ethereum",
+        "text": "Introducing the concept of blockchain as a service, the blog post looks into how the technology can be used for app storage, enhancing their security and reliability. The article also investigates into DApps \u2014 distributed or decentralized apps \u2014 and explores how the idea behind them can be extended to applications made with Cloud Foundry (CF). You will also find out about some other examples of successful blockchain adoption within the CF community."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/initiating-digital-transformation-nobody-wants-to-get-ubered-f58eb5fa2ee4?source=user_profile---------34----------------",
+        "title": "Initiating Digital Transformation: Nobody Wants to Get \u201cUbered\u201d",
+        "text": "As the world is moving towards a new hi-tech reality, digital transformation becomes rather a must than a necessity for businesses. The blog post investigates into the current situation, trying to unveil the secrets of successful disruptors, e.g., Uber, Facebook, and Amazon. The article also discusses how a company could make a step forward to transform digitally, embracing the concept of data business and emerging technologies."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/analyzing-dark-data-for-traders-using-ibm-watson-and-bluemix-659bb35b6a96?source=user_profile---------35----------------",
+        "title": "Analyzing \u201cDark Data\u201d for Traders Using IBM Watson and Bluemix",
+        "text": "Stock market is exposed to heavy money loss as 90% of data gathered from sensors and analog-to-digital conversions never gets used. It means the majority of such data simply becomes dark data \u2014 information that\u2019s difficult to understand and analyze and is therefore not used in any decision making. This blog post explores how tech can help to analyze data collected across social media, TV, and even weather forecasts."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/liberty-mutual-delivers-an-insurance-app-in-6-months-with-cloud-foundry-8feb02ff0a81?source=user_profile---------36----------------",
+        "title": "Liberty Mutual Delivers an Insurance App in 6 Months with Cloud Foundry",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/artificial-intelligence-can-be-a-catalyst-across-most-cycles-of-the-iot-e5430ff3dafd?source=user_profile---------37----------------",
+        "title": "Artificial Intelligence Can Be a Catalyst Across Most Cycles of the IoT",
+        "text": "With ever-growing amount of data produced by the Internet of Things, there is a need for a \u201csmart\u201d engine to analyze it and drive valuable insights. Outlining the challenges, this blog post highlights the six stages of an IoT workflow where artificial intelligence can help out."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/sap-verifies-academic-credentials-using-blockchain-and-cloud-foundry-c8b18bf303f2?source=user_profile---------38----------------",
+        "title": "SAP Verifies Academic Credentials Using Blockchain and Cloud Foundry",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/tensorflow-for-recommendation-engines-and-customer-feedback-analysis-64288d963f06?source=user_profile---------39----------------",
+        "title": "TensorFlow for Recommendation Engines and Customer Feedback Analysis",
+        "text": "There are three common e-commerce scenarios machine learning may improve: finding products, recommending them, and analyzing customer feedback. The blog post explores how TensorFlow and Google Cloud Machine Learning are applied to implement these scenarios in real life. In addition, the article features an example of a recommendation engine delivered for a large provider of TV services."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/at-t-integrates-its-iot-services-with-ibm-bluemix-to-enhance-m2m-fa3d0840f0ab?source=user_profile---------40----------------",
+        "title": "AT&T Integrates Its IoT Services with IBM Bluemix to Enhance M2M",
+        "text": "AT&T\u2019s three IoT services \u2014 M2X, Flow Designer, and IoT Data Plans \u2014 are all available in the IBM Bluemix catalog. The blog post describes how M2X provides valuable analytics and data visualization, Flow Designer assists in building prototypes, and IoT Data Plans enable connectivity via enterprise SIM cards."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/honda-improves-the-safety-of-connected-cars-with-ibm-bluemix-watson-75852dbced97?source=user_profile---------41----------------",
+        "title": "Honda Improves the Safety of Connected Cars with IBM Bluemix / Watson",
+        "text": "Connected cars are now one of the top trends, with more and more automotive companies going for similar initiatives. The blog post shares the story of Honda leveraging IBM Bluemix and the Watson IoT platform to enhance driving safety with a connected car mobile app, a cognitive driver assistant, and real-time analytics. You will also learn how the company uses data mining and analytics to get valuable insights into vehicle performance and improve its R&D workflow."
+    },
+    {
+        "url": "https://medium.com/altoros-blog/from-hybrid-to-multi-cloud-seeking-order-amidst-enterprise-it-chaos-7eb5e2fb3c4c?source=user_profile---------42----------------",
+        "title": "From Hybrid to Multi-Cloud: Seeking Order Amidst Enterprise IT Chaos",
+        "text": "With all the multiple and simultaneous trends in cloud computing and Cloud Foundry, it may be difficult for a company to decide which of them to take up. The blog post overviews some of the trends, providing insights into how they can affect the enterprise IT. In particular, the article discusses approaches to digital transformation and the value of legacy systems and data for enabling it and explores the implications of going from hybrid to multi-cloud."
+    }
+]

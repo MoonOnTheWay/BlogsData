@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://blog.semantics3.com/gpu-enabled-ec2-instance-for-deep-learning-c24c1a154e8e?source=tag_archive---------0----------------", 
+        "text": "As a team which builds data-powered software for ecommerce-focussed companies, we are always on the lookout for incorporating new development practices into our workflow.\n\nOne such advancement over the years has been the widespread adoption of GPUs for efficient deep learning.\n\nGiven the widespread use of Amazon Web Services (AWS) for our infrastructure needs, it was natural that we start off with the GPU EC2 instances that AWS has been pushing in the recent years.\n\nDespite there being many posts on how to setup a GPU instance for deep learning, there was just too much diverse information across the posts that it became a pain to read through the details every time. So with that said, here is my yet another post on how to setup an EC2 instance with GPU support for deep learning.\n\nThis is a very opinionated setup guide, specific to AWS instances (with NVIDIA cards), running Ubuntu 14.04 LTS.\n\nThe script installs Cuda Toolkit 7.5 and cuDNN 5.1\u200a\u2014\u200athe latest stable releases at the time of writing this post.\n\nnote: the cuDNN download requires a NVIDIA developer account. Sign-up for a free account and download the file here.\n\nIf you want to verify that your setup is working correctly, here is another short (also opinionated) script to test TensorFlow installed via Miniconda.\n\nUpdate: To use your newly configured GPU instance on EC2, refer to our post about maintaining persistence across spot instances to optimize for both cost and continuity.", 
+        "title": "GPU-enabled EC2 instance for deep learning \u2013"
+    }, 
+    {
+        "url": "https://deephunt.in/deep-hunt-issue-8-ad2391ba4b0b?source=tag_archive---------1----------------", 
+        "text": "Salesforce jumps into foray as it announced Einstein, its artificial intelligence (AI) initiative by pulling together 175 data scientists to help create it, while leveraging acquisitions such as MetaMind, PredictionIO and RelateIQ.\n\nApple is on a machine learning company buying spree. After buying Perceptio at the end of 2015 and Turi just a few months ago, Apple has now acquired Tuplejump, an Indian/American startup.\n\nNew federal guidelines make it clear that, while the government will provide oversight, it wants to encourage the development of autonomous vehicles.\n\nThanks to machine learning, the X lab\u2019s Internet balloons can more skillfully navigate the stratosphere.\n\nRajat Monga, technical director at TensorFlow and a founding member of the Google Brain Team will be answering questions on Quora. Ask away!", 
+        "title": "\u2014 Issue #8 \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@DockerTurtle/gpu-is-like-a-brain-gpu-to-run-deep-learning-networks-c4ba16c4233?source=tag_archive---------2----------------", 
+        "text": "In 2016, we had more than 50,000 downloads of the Deep learning library. In 2012, it was 2000 downloads approx. This shows a tremendous growth in Deep learning.\n\nIn Deep learning, we create a Network of Neurons and then train this Network. We have billions of Datapoints and billions of operations running in Neurons.\n\nWe need Quickly, Accurately and Security.", 
+        "title": "\u201cGPU\u201d is like a Brain \u2014 GPU to run Deep learning networks !!"
+    }
+]

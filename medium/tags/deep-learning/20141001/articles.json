@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://medium.com/project-agi/a-unifying-view-of-deep-networks-and-hierarchical-temporal-memory-df6e2acf7cd6?source=tag_archive---------0----------------", 
+        "text": "Browsing the NUPIC Theory mailing list, I came across a post by Fergal Byrne on the differences and similarities between Deep Learning and MPF/HTM. It\u2019s a great background into some of the pros and cons of each.\n\nGiven the popularity and demonstrated success of Deep Learning methods it\u2019s good to understand how they work and how they relate to MPF/HTM theory. For example, both involve construction of hierarchical data representations created via a series of unsupervised classifiers. Fergal rightly admonishes proponents of both methods for their reluctance to research the alternatives!\n\nThe article can be found here:", 
+        "title": "A Unifying View of Deep Networks and Hierarchical Temporal Memory"
+    }, 
+    {
+        "url": "https://medium.com/@jkarnows/caffe-installation-on-ubuntu-14-04-8c916cd0a44c?source=tag_archive---------1----------------", 
+        "text": "Below is the installation procedure I used to set up my NVIDIA Titan Z and Caffe. You can request a GPU by filling out an Academic Hardware Grant Request Form.\n\n[EDIT: I\u2019ve updated the site to include information about setting up Caffe on Ubuntu 14.04 for laptop (no GPU), on Ubuntu 14.04 that has a GPU, and on Ubuntu 14.04 Server]\n\n4. Unzip Boost 1.55 in /usr/local/ (or unzip it elsewhere and move it there)", 
+        "title": "Caffe installation on Ubuntu 14.04 \u2013 Jeremy Karnowski \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@dave_52446/a-unifying-view-of-deep-networks-and-hierarchical-temporal-memory-31fafbd087cd?source=tag_archive---------2----------------", 
+        "text": "Browsing the NUPIC Theory mailing list, I came across a post by Fergal Byrne on the differences and similarities between Deep Learning and MPF/HTM. It\u2019s a great background into some of the pros and cons of each.\n\nGiven the popularity and demonstrated success of Deep Learning methods it\u2019s good to understand how they work and how they relate to MPF/HTM theory. For example, both involve construction of hierarchical data representations created via a series of unsupervised classifiers. Fergal rightly admonishes proponents of both methods for their reluctance to research the alternatives!\n\nThe article can be found here:", 
+        "title": "A Unifying View of Deep Networks and Hierarchical Temporal Memory"
+    }, 
+    {
+        "url": "https://medium.com/@dave_52446/a-unifying-view-of-deep-networks-and-hierarchical-temporal-memory-1af20088d590?source=tag_archive---------3----------------", 
+        "text": "Browsing the NUPIC Theory mailing list, I came across a post by Fergal Byrne on the differences and similarities between Deep Learning and MPF/HTM. It\u2019s a great background into some of the pros and cons of each.\n\nGiven the popularity and demonstrated success of Deep Learning methods it\u2019s good to understand how they work and how they relate to MPF/HTM theory. For example, both involve construction of hierarchical data representations created via a series of unsupervised classifiers. Fergal rightly admonishes proponents of both methods for their reluctance to research the alternatives!\n\nThe article can be found here:", 
+        "title": "A Unifying View of Deep Networks and Hierarchical Temporal Memory"
+    }
+]

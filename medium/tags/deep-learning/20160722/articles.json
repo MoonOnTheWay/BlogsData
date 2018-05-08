@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://medium.com/@JDeePee/installing-cuda-on-aws-ec2-for-deep-learning-e521848ac418?source=tag_archive---------0----------------", 
+        "text": "2. SSH into your new instance:\n\nYou should see the following:\n\nCongratulations! You now have everything you need installed to run a neural network on a AWS gpu instance using Keras and Theano.\n\nIf this was helpful be sure to follow me on twitter.", 
+        "title": "Installing CUDA on AWS EC2 for Deep Learning \u2013 Joshua Parkin \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@atveit/deep-learning-for-mobile-personal-expression-at-zedge-85e57ce055a1?source=tag_archive---------1----------------", 
+        "text": "Wrote a blog post about Deep Learning for Mobile Personal Expression, entire blog post is available at: http://corp.zedge.net/developers-blog/deep-learning-at-zedge\u200a\u2014\u200aand start of blog post is shown underneath.\n\nOur main product is an app\u200a\u2014\u200aZedge Ringtones & Wallpapers\u200a\u2014\u200athat provides wallpapers, ringtones, app icons, game recommendations and notification sounds customized for your mobile device. Zedge apps have been downloaded more than 200 million times for iOS and Android and is used by millions of people worldwide each month.\n\nPeople use our apps for self-expression. Setting a wallpaper, ringtone or app icons on your mobile device is in many ways similar to selecting clothes, hairstyle or other fashion statements. In fact people try a wallpaper or ringtone in a similar manner as they would try clothes in a dressing room before making a purchase decision, they try different wallpapers or ringtones before deciding on one they want to keep for a while.\n\nThe decision for selecting a wallpaper is not taken lightly, since people interact and view their mobile device (and background wallpaper) a lot:\n\n\u2026 The entire blog post is available at:", 
+        "title": "Deep Learning for Mobile Personal Expression at Zedge"
+    }, 
+    {
+        "url": "https://medium.com/@mitchdover/the-pros-and-cons-of-artificial-intelligence-cf9b3fd50597?source=tag_archive---------2----------------", 
+        "text": "People have been wary about the concept of artificial intelligence since it was first invented. There\u2019s something uncanny about the idea of machines that are human-like but not quite human and Hollywood has capitalized on these fears.\n\nBut artificial intelligence is basically a tool, and isn\u2019t inherently good or bad. It can only be used in good and bad ways. Here are some of the pros and cons of artificial intelligence.\n\nArtificial Intelligence News brought to you by artificialbrilliance.com", 
+        "title": "The pros and cons of artificial intelligence \u2013 Mitchelle Dover \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@nadavharel/thanks-isaac-701257fb739?source=tag_archive---------3----------------", 
+        "text": "Looking forward for your next monthly update. I predict that the next break-through in this field is expected to be in the domain of unstructured deep learning a more automatic way of deep learning approach that still hasn\u2019t produced worldwide known proven implementations.\n\nFor more insights about Macro-Technology, I invite you to this website.", 
+        "title": "Thanks Isaac. \u2013 Nadav Harel \u2013"
+    }
+]

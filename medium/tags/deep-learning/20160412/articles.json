@@ -1,0 +1,7 @@
+[
+    {
+        "url": "https://medium.com/@shiyan/use-intel-spmd-program-compiler-to-accelerate-my-neural-network-800ea311a509?source=tag_archive---------0----------------", 
+        "text": "Today, there was this new thing called ISPC posted on HackerNews. It is an intel compiler that allows you to write c like programs to make use of SIMD automatically.\n\nI thought this was new, but apparently it\u2019s been around for a while. I must have lived under a rock!\n\nI immediately thought that this could accelerate my neural network library. I have been always wanted to use SIMD. I didn\u2019t because, first, there doesn\u2019t seem to be any cross-compiler SIMD solution. Compiler intrinsics seem to be the suggested way, but I hate writing different versions for different compilers. Second, there are so many different SIMD \u201clevels\u201d, from SSE2 to AVX2. Writing different code to fully use SIMD on different platforms is also difficult.\n\nThis ISPC seems to be a good solution to these two problems. I quickly tried it to replace my neural network forward kernel. I got 4.5x acceleration. Not bad!", 
+        "title": "Use Intel SPMD Compiler to accelerate my neural network"
+    }
+]

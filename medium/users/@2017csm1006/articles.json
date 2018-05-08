@@ -1,0 +1,7 @@
+[
+    {
+        "url": "https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e?source=user_profile---------1----------------",
+        "title": "Forward And Backpropagation in Convolutional Neural Network.",
+        "text": "The below post demonstrates the use of convolution operation for carrying out the back propagation in a CNN.\n\nLet\u2019s consider the input and the filter that is going to be used for carrying out the convolution as given above.\n\nThen the correlation of the filter matrix with the input matrix is described in the figure below\n\nNow, The convolution of the filter matrix with input image is same as rotating the filter by 180 degrees and then carrying out the correlation of the rotated filter matrix with the input matrix.\n\nAs can be seen from the above image the convolution operation is same as that of the correlation operation but with rotated filter."
+    }
+]

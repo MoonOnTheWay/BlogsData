@@ -1,0 +1,7 @@
+[
+    {
+        "url": "https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4?source=tag_archive---------0----------------", 
+        "text": "In two parts, the paper describes an algorithm for rendering a photo in the style of a given painting:\n\n2. Instead of trying to match the activations exactly, try to match the correlation of the activations. They call this \u201cstyle reconstruction\u201d, and depending on the layer you reconstruct you get varying levels of abstraction. The correlation feature they use is called a Gram matrix: the dot product between the vectorized feature activation matrix and its transpose. If this sounds confusing, see the footnotes.\n\nFinally, instead of optimizing for just one of these things, they optimize for both simultaneously: the style of one image, and the content of another image.\n\nHere is an attempt to recreate the results from the paper using Kai\u2019s implementation:\n\nNot quite the same, and possibly explained by a few differences between Kai\u2019s implementation and the original paper:\n\nAs a final comparison, consider the images Andrej Karpathy posted from his own implementation.\n\nThe same large-scale, high-level features are missing here, just like in the style reconstruction of \u201cSeated Nude\u201d above.", 
+        "title": "Comparing Artificial Artists \u2013 Kyle McDonald \u2013"
+    }
+]

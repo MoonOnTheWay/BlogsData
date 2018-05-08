@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://insights.untapt.com/fundamentals-of-deep-learning-talk-to-data-science-fintech-meetup-2c3199bf363f?source=tag_archive---------0----------------", 
+        "text": "On Wednesday, I had the joy of presenting to a highly-engaged audience at the Data Science + FinTech meetup. From the starting gun, the sharp attendees quizzed me with insightful questions and thoughtful commentary on the topic of Deep Learning with Neural Networks, expanding the sixty-minute talk to nearly two hours.\n\nAll in all, we covered:\n\nI\u2019ve uploaded my slides from the evening here. Many thanks to Mansi Singhal and her team at qplum for their invitation and for bringing together such a bright community.\n\nFor curated data science resources, including suggested paths for getting started with deep learning, visit my site.", 
+        "title": "\u201cFundamentals of Deep Learning\u201d talk to Data Science + FinTech Meetup"
+    }, 
+    {
+        "url": "https://medium.com/data-science-at-home/word-embedding-explained-in-one-slide-b2fe6b79ca55?source=tag_archive---------1----------------", 
+        "text": "Word embeddings is one of the most powerful concepts of deep learning applied to Natural Language Processing. Any word of a dictionary (the set of words recognized for the specific task) is basically transformed into a numeric vector of a certain number of dimensions. All the rest, classification, semantic analysis, etc. is done from the aforementioned vectors on.\n\nHere is a slide that explains this with a bit of algebra and some user friendly text. Download it and feel free to share.", 
+        "title": "Word Embedding explained in one slide \u2013 Data Science at Home \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@mselvaraaju/machine-learning-a-government-perspective-33a935fc6efd?source=tag_archive---------2----------------", 
+        "text": "Neural network and machine learning has been around for years. Yet you can see people fascinated about artificial intelligence and deep learning in recent years. This is mainly because of the below two reasons\n\nIt is obvious that big data can help train big deep learning models having few hundred layers and offer huge performance boost. This is evident from Amazon Alexa, Cortana and Google Now doing real time speech recognition on par with humans\u00a0! One day those algorithms will be better than humans\u00a0!\n\nWhat are the government problem that can leverage Deep Learning\u2019s potential and offer government a great value? There are plethora of problems such as\n\nRight now I am building training a machine learning models using Tensor Flow (Open source AI tool) using Python to assess the risk for a passenger who is taking a public transport. This model uses data from Police department to get crime rates, data from family violence, data from public affair and this model gets automatically tuned when incidence/violence was reported. This model can help the government authorities to identify high risk suburbs and implement new measures to reduce the risk.\n\nDeep learning is poised to make a big leap in government and I hope that future government is not run by skynet!!\u00a0:( If government principles such as privacy and ethics are taken into consideration while designing a deep learning model, we can solve difficult government problems.", 
+        "title": "Machine Learning : A Government Perspective \u2013 Selvaraaju Murugesan \u2013"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://medium.com/ai-business/ai-for-medical-454633ccf391?source=tag_archive---------0----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "\u533b\u7642\u9818\u57df\u3067\u306e\u4eba\u5de5\u77e5\u80fd\u306e\u6d3b\u7528\u3068\u8ab2\u984c \u2013 Team AI Blog \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@Gwario/machine-learning-fun-update-d3d3a331249e?source=tag_archive---------1----------------", 
+        "text": "A little update on my machine learning project.\n\nAs I was doing some research, i found out that pooled digraph latency variability is inappropriate for the task of user identification by typing habit.\n\nBut digraph measures of variability are in general good\u2026\n\nNeural networks are not suitable, because they need to be retrained on new users.\n\nAnd a few further questions arised:\n\nIn the first step I\u2019ll follow the approach of Monrose and Rubin:\n\nThe first end to end functioning version is live!\n\nI guess I\u2019ll exclude mobile clients in the next release.\n\nSo far you can only select your user, but the user list is already coming from the server side.\n\nSorry for the worst medium post ever\u2026", 
+        "title": "Machine Learning Fun (update) \u2013 Gwario \u2013"
+    }
+]

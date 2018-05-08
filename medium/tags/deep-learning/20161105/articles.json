@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://medium.com/@DockerTurtle/learn-and-practice-how-to-train-an-image-classifier-model-in-deep-learning-using-watson-api-3e6b4e8fafd7?source=tag_archive---------0----------------", 
+        "text": "If you starting with Deep learning and want a free and easy learning resource for practicing Deep learning concepts\u200a\u2014\u200astart using the Watson API\u200a\u2014\u200aI think its free for now. You need to know REST API calls using curl commands.\n\nLets start training a Classifier Algorithm with [set of Images and Class label for each Image] and create a new Image recognizing\u200a\u2014\u200aClassifier model.\n\nYou only need Images- jpg or png files and label each Image.\n\nOur Objective\u200a\u2014\u200aOnce the Image classifier Model is created, the new Model should identify the Image file you submit as Input and return the Correct Label for the Image file.\n\nOnce the Classifier Model is created and tested by You, please deploy the Model for production use and your Apps can use this Model using REST API.\n\nPlease watch these Videos for starting with Deep learning\u200a\u2014\u200avery simple", 
+        "title": "Deep learning : Train image Classifier using Watson API \u2014 simple as cakewalk :)"
+    }, 
+    {
+        "url": "https://medium.com/@DockerTurtle/year-2025-predicting-the-job-services-market-for-machine-learning-and-ai-85c61818f607?source=tag_archive---------1----------------", 
+        "text": "Cognitive & AI\u200a\u2014\u200amarket is predicted to be $47 Billion by 2020\n\n**(figure might be not exact)\n\nLook at the Global companies investing on Machine learning.\n\nAll the Global Conferences run by Microsoft, Amazon and Google are completely immersed with Cognitive and Machine learning sessions.\n\nLast 2 years, conferences had Cloud and Big data sessions, but this is changing rapidly.\n\nAs per some Experts, by year 2018\u201350% of all new Applications will have Cognitive Intelligence.\n\nWhat is the Domain of Cognitive\u00a0?", 
+        "title": "$47 Billion in Year 2020 \u2192 Predicting the Job/Services market for Machine learning and AI ?"
+    }, 
+    {
+        "url": "https://deephunt.in/deep-hunt-issue-14-caf370b8f530?source=tag_archive---------2----------------", 
+        "text": "Graphcore comes out of stealth mode and announces $30m in funding to accelerate AI and machine learning.\n\nGoogle AI invents its own cryptographic algorithm; no one knows how it works\n\nNeural networks seem good at devising crypto methods; less good at codebreaking.\n\nCarnegie Mellon made a special pair of glasses that lets you steal a digital identity\n\nYour face is quickly becoming a key to the digital world. Computers, phones, and even online stores are starting to use your face as a password. But new research from Carnegie Mellon University shows that facial recognition software is far from secure.\n\nDeepMind and Blizzard to release StarCraft II as an AI research environment\n\nDeepMind is collaboration with Blizzard Entertainment to open up StarCraft II to AI and ML researchers around the world.\n\nSoftware Dreams Up New Molecules in Quest for Wonder Drugs\n\nIngesting a heap of drug data allows a machine-learning system to suggest alternatives humans hadn\u2019t tried yet.", 
+        "title": "\u2014 Issue #14 \u2013"
+    }
+]

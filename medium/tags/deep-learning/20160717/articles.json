@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://medium.com/this-week-in-machine-learning-ai/an-ai-powered-wingman-for-pok%C3%A9mon-go-and-googles-wide-deep-learning-model-july-15-2016-1ad32518649e?source=tag_archive---------0----------------", 
+        "text": "This week\u2019s show features a conversation about public datasets, an AI-powered Pok\u00e9mon Go Wingman, a new deep learning app for your iPhone, Google research into Wide & Deep learning models, plus a whole lot more.\n\nThis week\u2019s podcast is sponsored by Cloudera, organizers of the Wrangle Conference which is coming up in San Francisco on July 28th. Check out the event page for information on the great talks and speakers they\u2019ve got planned, and if you decide to register, use the code \u201cCOMMUNITY\u201d for 20% off!", 
+        "title": "An AI-Powered Wingman for Pok\u00e9mon Go, and Google\u2019s Wide & Deep Learning Model \u2014 July 15, 2016"
+    }, 
+    {
+        "url": "https://medium.com/human-on-tech/algorithmia-uses-algorithmic-intelligence-to-colorise-your-photos-9fd802a916be?source=tag_archive---------1----------------", 
+        "text": "Web app of the day: Algorithmia\u2019s auto-colorization service allows you to colorise black and white photos. The results are interesting with varying levels of success (see an example above).\n\nAlgorithmia is a hosting service for deep learning models allowing for developers to use it\u2019s cloud infrastructure for deployment of their algorithms, as well as use other people\u2019s models in their own application (so you could built a mobile app that use the auto-colorisation API for example).\n\n\u00a0In case you (like me) hadn\u2019t heard the \u201calgorithmic intelligence\u201d term before:\n\nIf you have any black and white photo, try out the demo and get more information here.", 
+        "title": "Algorithmia uses Algorithmic Intelligence to colorise your photos"
+    }
+]

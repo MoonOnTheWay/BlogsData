@@ -1,0 +1,7 @@
+[
+    {
+        "url": "https://chatbotsmagazine.com/deep-learning-brain-7-days-later-794fc8e65800?source=tag_archive---------0----------------", 
+        "text": "We released our AI side project experiment a week ago (see Medium post there) and it has gotten some very good feedback so far. A week later, we have just shy of 100,000 messages (human + bot) from 2,200 unique users, and I thought I would share a few, very preliminary insights into what we learnt.\n\nThere is still a long way to go to attain significant relevance over longer discussions, however, shorter exchanges are generally (i.e. more than half of the time) either coherent, or not coherent but funny.\n\nAnother insight in terms of product design, is that users are more than willing to share their conversations, be they failing or successful:\n\nFinally, we realized that the data set used to train the AI (the Cornell Movie-Dialogs Corpus) has its own issues, and doesn\u2019t always fit the private, one-to-one conversational model. It would be most helpful to have a corpus of private messages from a typical messaging platform (Messenger, Whatsapp, etc.) and we hope the AI and NLP community gets together to build a shared one soon.\n\nWe are thinking of releasing the anonymized chat transcripts from our experiment (http://neuralconvo.huggingface.co/) so that we can all extract more instructive data. If you\u2019re interested, please subscribe to the issue there: https://github.com/julien-c/neuralconvo-data/issues/1", 
+        "title": "Deep Learning Brain, 7 days later \u2013"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://medium.com/artists-and-machine-intelligence/deepdream-art-and-machine-learning-symposium-2016-recap-396d1ecf87e3?source=tag_archive---------0----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "DeepDream Art and Machine Learning Symposium 2016 recap"
+    }, 
+    {
+        "url": "https://medium.com/@shmuma/summary-actor-mimic-deep-multitask-and-transfer-reinforcement-learning-dd2f24b441e1?source=tag_archive---------1----------------", 
+        "text": "The article is about an approach proposed by Toronto researchers to speed up reinforcement learning of \u201cmultitask models\u201d.\n\nMultitask models are used when we\u2019re trying to teach one single NN to handle two (or more) different tasks. Examples are some games, when arcade levels can be interchanged with levels of different kind (fighting, for instance). In such situations, value function and skills that need to be developed are totally different. This problem can be handled by having two different pre-trained NNs switched appropirately during the game, but this approach needs the 3-rd party logic to switch games. To simplify this, multitask models are used. In their case, we train one single network to act and switch behaviour according to the environment.\n\nThe article addreses to the problem of speeding up training of such networks when we have already pre-trained networks for every particular task we\u2019re going to \u2018embed\u2019 into our final network.\n\nThe main idea is to have loss function consisting from two parts:\n\nThe general idea behind those two components: the first component teaches our network to copy our actions: \u201cdo as I do\u201d. The second component in the loss function stands as explanation behind reasoning: \u201cI do that because\u201d.\n\nThe approach is quite interesting, and I\u2019m going to return to the article later, after gaining more practical reinforcement learning knowledge. It might be interesting to verify the author\u2019s approach on some practical task, like AI Gym.", 
+        "title": "Summary: Actor-mimic deep multitask and transfer reinforcement learning"
+    }
+]

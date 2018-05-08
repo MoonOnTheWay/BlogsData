@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://labs.beeva.com/deep-learning-e3376029cb12?source=tag_archive---------0----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "Deep Learning \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@stopsatgreen/the-future-colours-the-past-8eff488e68c9?source=tag_archive---------1----------------", 
+        "text": "I love these colour photos of 1928 England. The colour makes them seem more vivid, more alive, even though so much of the way of life depicted is gone.\n\nI wonder if black & white isn\u2019t the single biggest factor in distancing us from the past.\n\nAs deep-learning improves the results of automatic re-colouring of black & white photography, wouldn\u2019t it be amazing if that created a new connection with history?", 
+        "title": "The future colours the past \u2013 Peter Gasston \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@_futureality/neural-net-algorithm-study-day-1-a52c0cdc3516?source=tag_archive---------2----------------", 
+        "text": "I mostly read the \u201cMethods\u201d section, today. It seems like they\u2019re doing what I initially thought\u200a\u2014\u200ayou train a CNN on an image, or images. Then, you start with white noise (or an input image) and perform gradient ascent on some function of the differences between the responses of the layers of the CNN on the original image and the input image/modified input image.", 
+        "title": "Neural Net Algorithm Study, Day 1 \u2013 Manfred Macx \u2013"
+    }
+]

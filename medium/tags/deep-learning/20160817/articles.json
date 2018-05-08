@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://medium.com/@nicorichter/ive-experimented-quite-a-bit-with-deep-writing-before-it-was-called-that-as-well-and-the-loss-1bbf8c036480?source=tag_archive---------0----------------", 
+        "text": "I\u2019ve experimented quite a bit with deep writing (before it was called that) as well, and the loss of coherence over longer passages of text got me away from stories and screenplays.\n\nI ended up training a network with the complete works of several classic German poets and the verses it generated were actually quite nice.\n\nMy next step had been to use CNNs to get a layer of structure over the letters, but alas, a new job doesn\u2019t leave me enough time to get anywhere with it. I have heard however that others have started using convolutional networks for NLP, but didn\u2019t have the time to research it.\n\nMaybe, some day, I\u2019ll have the time, but until then, I think the best way to leverage LSTMs capabilities for writing is generating text that has short term struck structure like poetry or speeches.", 
+        "title": "I\u2019ve experimented quite a bit with deep writing (before it was called that) as well, and the loss\u2026"
+    }, 
+    {
+        "url": "https://medium.com/@ooohiroyukiooo/nuance-brings-deep-learning-tech-to-its-dragon-speech-recognition-bcf07c89e85a?source=tag_archive---------1----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "Nuance Brings Deep Learning Tech to Its Dragon Speech Recognition"
+    }
+]

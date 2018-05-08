@@ -1,0 +1,7 @@
+[
+    {
+        "url": "https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752?source=user_profile---------1----------------",
+        "title": "Intuitive RL: Intro to Advantage-Actor-Critic (A2C)",
+        "text": "Reinforcement learning (RL) practitioners have produced a number of excellent tutorials. Most, however, describe RL in terms of mathematical equations and abstract diagrams. We like to think of the field from a different perspective. RL itself is inspired by how animals learn, so why not translate the underlying RL machinery back into the natural phenomena they\u2019re designed to mimic? Humans learn best through stories.\n\nThis is a story about the Actor Advantage Critic (A2C) model. Actor-Critic models are a popular form of Policy Gradient model, which is itself a vanilla RL algorithm. If you understand the A2C, you understand deep RL.\n\nAfter you\u2019ve gained an intuition for the A2C, check out:"
+    }
+]

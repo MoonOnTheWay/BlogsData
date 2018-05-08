@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://medium.com/@sidd_reddy/mobile-friendly-deep-convolutional-neural-networks-part-1-331120ad40f9?source=tag_archive---------0----------------", 
+        "text": "In the past few years, convolutional neural networks have risen to popularity due to their effectiveness in various computer vision tasks. Networks like AlexNet, VGGNet, and GoogleNet have been proved to be very effective for image classification. Using a similar approach, networks like FCN, and SegNet have been shown to be effective in semantic segmentation whereas networks like FlowNet have been used to generate optical flow. Many experiments are also being done using CNNs for problems such as color correction, super resolution, and illuminant estimation.\n\nBecause of the huge accuracy boost when using CNNs, companies like Google and Facebook have already included them in their services. They do this by uploading our data to their servers, running the neural networks and then transferring the outputs. Even though this works for now, we still need to maintain an internet connection which may not always be available.\n\nThen why not just run the networks on our devices? Because deep networks are very computationally intensive. They require multiple high-end GPUs in order to function in a real world scenario. Running them on a CPU takes multiple seconds, even longer on a mobile phone. Also, their models are huge in size. Loading a large model causes delay and consumes high amount of power as it would have to be stored in the DRAM. Herein lies the Achilles\u2019 heel of CNNs.\n\nBut all hope is not lost. Many researchers are focusing on this very problem.\n\nThere are two ways to make deep CNNs faster.\n\n1. Make them shallow.\n\n2. Improve the underlying implementation of the convolutional layers.\n\nClick on the links above to read the next parts.", 
+        "title": "\u201cMobile friendly\u201d deep convolutional neural networks \u2014 Part 1"
+    }, 
+    {
+        "url": "https://medium.com/@ooohiroyukiooo/google-announced-a-new-messaging-app-that-was-equipeed-with-a-conversational-ai-df0cd7ee730a?source=tag_archive---------1----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "Google Announced a New messaging App That Was Equipeed With a \u201cConversational AI\u201d"
+    }
+]

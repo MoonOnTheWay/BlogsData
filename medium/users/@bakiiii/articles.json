@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://medium.com/@bakiiii/self-discoveries-7apr18-cb820eb1af60?source=user_profile---------1----------------",
+        "title": "Self Discoveries \u2014 7Apr18 \u2013 Baki Er \u2013",
+        "text": "I couldn\u2019t finish reading and understanding it. It\u2019s quite comprehensive. You need to spare a weekend to read just this one or to split it to parts. Latter is what I did.\n\nVery clear explanations about Big Data handling with Collaborative Filtering, NLP and Raw Audio Processing."
+    },
+    {
+        "url": "https://medium.com/@bakiiii/self-discoveries-5apr18-a6de60947944?source=user_profile---------2----------------",
+        "title": "Self Discoveries \u2014 5Apr18 \u2013 Baki Er \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@bakiiii/automatic-e-mail-sending-with-python-eb41855119e1?source=user_profile---------3----------------",
+        "title": "Automatic E-Mail Sending with Python \u2013 Baki Er \u2013",
+        "text": "I have a computer which restarts itself with no reason without my awareness, which interrupts running processes. Now, if it restarts, I\u2019ll know it\u2026\n\nFor some reason, you too may want your computer to stay power on and to perform a long-term operation like training a neural network or mining ethereum. It might be important to check its status while away from keyboard.\n\nSo isn\u2019t it would be nice it warns you if it restarts?\n\nTo do so, you only need Python installed to your computer and an e-mail account.\n\nEverything start with a computer which can send an e-mail by itself. Now robots are the master of the universe\u2026\n\nI have a computer which restarts itself with no reason without my awareness, which interrupts running processes. Now, if it restarts, I\u2019ll know it\u2026\n\nFor some reason, you too may want your computer to stay power on and to perform a long-term operation like training a neural network or mining ethereum. It might be important to check its status while away from keyboard.\n\nSo wouldn\u2019t it be nice it warns you when it restarts?\n\nTo do so, you only need Python (2.7 or 3.6) installed to your computer and an e-mail account.\n\nWe will use SMTP library which is built-in lib in python. SMTP (Simple Mail Transfer Protocol) is a protocol which enable you to send e-mail.\n\nThe process is quite simple:\n\nAs I told, SMTP is required to connect to the mail server and to send an e-mail. The other ones are is to create an email in a modular way i.e. to define from, to, subject, message, attachment etc. (Bonus section).\n\nWe can create a mail object in a more fancy and modular way by using email library.\n\n\u201cmsg\u201d is an mail object which contains all required information to send an e-mail."
+    },
+    {
+        "url": "https://medium.com/t%C3%BCrkiye/mars-%C3%BCzerine-71f66f5a31ee?source=user_profile---------4----------------",
+        "title": "MARS \u2013 T\u00fcrk\u00e7e Yay\u0131n \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/turkce/yapay-zeka-vs-i%CC%87nsan-zekas%C4%B1-a5c79a6a8a79?source=user_profile---------5----------------",
+        "title": "Robotik Zekan\u0131n \u00d6nlenemez Y\u00fckseli\u015fi \u2013 T\u00fcrk\u00e7e \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@bakiiii/deep-learning-ile-t%C3%BCrk%C3%A7e-film-yorumlar%C4%B1ndan-duygu-ve-puan-tahmini-78a606d86dde?source=user_profile---------6----------------",
+        "title": "Word2Vec ile T\u00fcrk\u00e7e Film Yorumlar\u0131ndan Duygu ve Puan Tahmini",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@bakiiii/microsoft-presents-deep-residual-networks-d0ebd3fe5887?source=user_profile---------7----------------",
+        "title": "Microsoft Presents : Deep Residual Networks \u2013 Baki Er \u2013",
+        "text": "It is clear that deep learning lives its golden era. It is not surprising to see a breakthrough improvement in this field everyday. In addition application areas of the deep learning are getting wider from finance to advertising. This results in that big players like Google, Facebook, Microsoft organized teams to study deep learning.\n\nFor whom like to do some research about these teams\u2019 work, LeNet (1998), AlexNet (2012) , GoogleNet(2014), VGGNet (2014), ResNet(2015) are worth to look. Each of these network architectures have unique approach to different problems. For example, AlexNet has parallel two CNN line trained on two GPUs with cross-connections, GoogleNet has inception modules ,ResNet has residual connections.\n\nOne of the main deductions from these studies is that the depth of the networks is crucial parameter and not easy to decide. Theoretically increasing number of layers should results in increase in representation capacity of the network. This is supposed to enhance the accuracy of the network. However in practice this is not the case due to:\n\nIn some cases some neuron can \u201cdie\u201d in the training and become ineffective/useless. This can cause information loss, sometimes very important information.\n\nIf parameters like weights,biases increases due to increasing depth, training the network becomes very difficult. Even this causes in higher training errors.\n\nHence the problem becomes increasing network depth without affecting from these problems.\n\nOne of the biggest advantages of the ResNet is while increasing network depth, it avoids negative outcomes. So we can increase the depth but we have fast training and higher accuracy. Pretty, right?\n\nIn normal cases, we can have underlying mapping with a nonlinear H(x) function from input to output. Lets say instead of H(x), use nonlinear function F(x) which defined as H(x)-x. At the output of the second weight layer (on the right) we arithmetically add x to the F(x). Then pass F(x)+x through Rectified Linear Unit (ReLU). This enables us to carry important information in the previous layer to the next layers. By doing so we can prevent vanishing gradient problem. Even if this connection looks like an addition to standard CNN approach, surprisingly, it fastens the training of the network.\n\nFor those in the deep learning field, this approach seem familiar. Yes you are right, it is actually similar principle introduced with Long Short Term Memory (LSTM) cells.\n\nThe connection carrying input to the output called shortcut connections. In the main paper published by Microsoft team, you can see the comparison of the two CNN networks, one is normal CNN and the other has residual connections, in terms of training time and accuracy on ImageNet and CIFAR-10 datasets.\n\nAccording to the paper published in 2015, 152-layer ResNet was the deepest network trained on ImageNet at that time. And as promised it has lower parameter than of VGG Net which is 8x times smaller in depth. This has quite impact on faster training performance.\n\nThis improvements results in winning the 1st place in ILSVRC classification competition on ImageNet with 3.57% top 5 error.\n\nI assume that this post gives you brief introduction about ResNet. For detailed information you can read \u201cDeep Residual Learning for Image Recognition\u201d paper. It is available in arxiv.org. The links for both this paper and other helpful references are given below.\n\nFor my other post you can view my profile or my personal website : nurbakier.com.\n\n1- Deep Residual Learning for Image Recognition\n\n[1512.03385] Deep Residual Learning for Image Recognition\n\nAbstract: Deeper neural networks are more difficult to train. We present a residual learning framework to ease the\u2026arxiv.org"
+    },
+    {
+        "url": "https://medium.com/@bakiiii/microsoft-sunar-deep-residual-network-d2970003ad8b?source=user_profile---------8----------------",
+        "title": "Microsoft Sunar : Deep Residual Network \u2013 Baki Er \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://medium.com/@aerinykim/why-do-we-subtract-the-slope-a-in-gradient-descent-73c7368644fa?source=user_profile---------1----------------",
+        "title": "Why do we subtract the slope * a in Gradient Descent?",
+        "text": "Why do we subtract the slope * a in Gradient Descent?\n\nOk, I got it. But still, why is it MINUS? Because your goal is to MINIMIZE J(\u03b8).\n\nSo, in the maximization problem, you need to ADD alpha * slope."
+    },
+    {
+        "url": "https://towardsdatascience.com/big4-tech-interview-question-derive-the-linear-regression-c45ccdd213e3?source=user_profile---------2----------------",
+        "title": "[Big4 Tech Interview Question] Derive the Linear Regression",
+        "text": "The reason why we would use Gradient Descent in Linear Regression is because it\u2019s computationally cheaper to find optima. Though in this case of sample size 30, Cartman could just have derived the closed form on the white board.\n\nWhy is G.D. computationally cheaper, compared to the normal equation?\n\nTake a look at the normal equation that we just derived. It has the matrix inversion in it and inverting a matrix is an expensive operation. The design matrix X has k+1 columns where k is the number of predictors (x1, x2, x3,\u2026) and m rows of samples (in our case 30). In real life, k is easily greater than 1,000 and sample size will be greater than 100k. Since the matrix inversion is (O(n\u00b3)), inverting X\u2032X (1,000 by 1,000 matrix) will take a while to calculate."
+    },
+    {
+        "url": "https://towardsdatascience.com/difference-between-batch-gradient-descent-and-stochastic-gradient-descent-1187f1291aa1?source=user_profile---------3----------------",
+        "title": "Difference between Batch Gradient Descent and Stochastic Gradient Descent",
+        "text": "Now, what was the Gradient Descent algorithm?\n\nAbove algorithm says, to perform the GD, we need to calculate the gradient of the cost function J. And to calculate the gradient of the cost function, we need to sum (yellow circle!) the cost of each sample. If we have 3 million samples, we have to loop through 3 million times or use the dot product.\n\nDo you see above? That\u2019s the vectorized version of \u201clooping through (summing) 3 million samples\u201d.\n\nYes. If you insist to use GD.\n\nBut if you use Stochastic GD, you don\u2019t have to!\n\nBasically, in SGD, we are using the cost gradient of 1 example at each iteration, instead of using the sum of the cost gradient of ALL examples.\n\nWell, Stochastic Gradient Descent has a fancy name but I guess it\u2019s a pretty simple algorithm!"
+    },
+    {
+        "url": "https://medium.com/@aerinykim/the-gradients-of-linear-regression-cost-function-1a42b98ab0ef?source=user_profile---------4----------------",
+        "title": "The gradients of Linear Regression cost function \u2013 Aerin Kim \ud83d\ude4f \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@aerinykim/how-to-derive-chi-squared-pdf-from-normal-gaussian-c48d6d19b3d4?source=user_profile---------5----------------",
+        "title": "Let\u2019s derive Chi-Squared PDF from normal distribution *intuitively*",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@aerinykim/how-to-implement-the-softmax-derivative-independently-from-any-loss-function-ae6d44363a9d?source=user_profile---------6----------------",
+        "title": "How to implement the Softmax derivative independently from any loss function?",
+        "text": "Mathematically, the derivative of Softmax(Xi) with respect to Xj is:\n\nwhere the red delta is a Kronecker delta.\n\nIf you implement in a vectorized version:"
+    },
+    {
+        "url": "https://medium.com/@aerinykim/numpy-sum-axis-intuition-6eb94926a5d1?source=user_profile---------7----------------",
+        "title": "Numpy Sum Axis Intuition \u2013 Aerin Kim \ud83d\ude4f \u2013",
+        "text": "The way to understand the \u201caxis\u201d of numpy sum is it collapses the specified axis. So when it collapses the axis 0 (row), it becomes just one row and column-wise sum.\n\nOk, sure. But why did numpy choose this way of behavior?\n\nIn 2-d arrays, it might be confusing, however when we talk about 3-d, 4-d, n-d, it\u2019s the more straightforward way to define the axis."
+    },
+    {
+        "url": "https://medium.com/@aerinykim/why-the-normal-gaussian-pdf-looks-the-way-it-does-1cbcef8faf0a?source=user_profile---------8----------------",
+        "title": "Why the Normal (Gaussian) PDF looks the way it does",
+        "text": "This might not be the most rigorous derivation of the Gaussian PDF (Probability Density Function) however this note might help you understand it more intuitively."
+    },
+    {
+        "url": "https://medium.com/@aerinykim/why-is-the-second-principal-component-orthogonal-to-the-first-one-d453c9fd97ca?source=user_profile---------9----------------",
+        "title": "Why is the second Principal Component orthogonal to the first one?",
+        "text": "Below is the python code that generates the above graph."
+    },
+    {
+        "url": "https://medium.com/@aerinykim/derive-the-gradients-w-r-t-the-inputs-to-an-one-hidden-layer-neural-network-fb24ed1ed05f?source=user_profile---------10----------------",
+        "title": "Derive the gradients of y_hat w.r.t the inputs to an one-hidden-layer neural network",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@aerinykim/draft1-5c1f76d4833a?source=user_profile---------11----------------",
+        "title": "Math used in Machine Learning and Neural Network \u2013 Aerin Kim \ud83d\ude4f \u2013",
+        "text": "This blog is mostly a copy of my personal notepad (math and deep learning). I decided to make it online for my younger brother who\u2019s a 2nd-year CS student and for my future children (I don\u2019t have one yet!)\n\nIf you spot any error or have questions, please feel free to comment it. I love to discuss things with people."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://medium.com/emergent-future/spam-detection-using-neural-networks-in-python-9b2b2a062272?source=tag_archive---------0----------------", 
+        "text": "Neural networks are powerful machine learning algorithms. They can be used to transform the features so as to form fairly complex non linear decision boundaries. They are primarily used for classification problems.\n\nA common classification problem is that of spam identification. In this problem, we are given a bunch of emails (in raw form or in processed form) and we are also given labels of those emails (spam or no spam). Then, we are given a set of new emails (test data) and we have to label each email in the test set as spam or no spam.\n\nYou can read about Neural Networks and how they work on Wikipedia\n\nWe have created a 3 layer neural network for spam detection:\n\nThe input layer takes in the 57 features of the email as a vector and passes it to the middle layer. Finally, the output layer outputs a real number in the interval (0, 1) which in some sense serves as a probability of the mail being a spam.\n\nHere is a link to pre-processed email dataset (make sure to save it with the name \u2018Train.csv\u2019)\n\nTo get an idea of what each column in the dataset means, have a look at this link\n\nHere is the Python code for our spam detector:\n\nWe have used the standard back propagation algorithm for training the neural network\n\nThis simple algorithm achieves an accuracy of 90%, which is a great start!", 
+        "title": "Spam detection using neural networks in Python \u2013 Emergent // Future \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@romankuchukov/%D0%BE-%D0%B4%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80-9cc9edacfd64?source=tag_archive---------1----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "\u041e \u0434\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440! \u2013 Roman Kuchukov \u2013"
+    }, 
+    {
+        "url": "https://medium.com/@ooohiroyukiooo/wanted-creative-humans-to-make-ai-personalities-sparkle-f39641b79781?source=tag_archive---------2----------------", 
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out.", 
+        "title": "Wanted: Creative Humans to Make AI Personalities Sparkle"
+    }
+]

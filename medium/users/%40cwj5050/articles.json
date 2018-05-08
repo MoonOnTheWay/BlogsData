@@ -1,0 +1,162 @@
+[
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-5-2-various-auto-encoders-9e5d025d53c1?source=user_profile---------1----------------",
+        "title": "[DL Udemy] 5\u20132. Various Auto-Encoders \u2013 Won-Joon Choi \u2013",
+        "text": "This post introduces various auto-encoders on a intuitive level. Different auto-encoders servers different purposes, as we will be seeing below.\n\nOvercomplete AEs have more hidden nodes than its\u2019 input. This may not be of much use as the neural network can simply cheat by replicating inputs! i.e. have one node each to copy the input node.\n\nTo prevent such over-fitting from happening, we can have it so only a certain portion of nodes will turn on per each training step. Somewhat similar to dropout\n\nDenosing AEs attempt to denoise the input data by stochastically making input values as zeros (as X2 -> 0). This can be thought of as a dropout for input layers. Despite this input, the output is compared with the original input so that the network goes through the proper training steps.\n\nsometimes better than Deep Belief Networks"
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-5-auto-encoders-7da6dc6873a3?source=user_profile---------2----------------",
+        "title": "[DL Udemy] 5. Auto-Encoders \u2013 Won-Joon Choi \u2013",
+        "text": "Auto-encoders are a commonly used architecture in (unsupervised) deep learning. This article is intended to give a high-level overview of how such networks work.\n\nAs seen in the figure, an Auto-encoder(hereafter AE) are networks that attempt to compress given inputs(yellow nodes) to a hidden dimension (green nodes). Given that hidden expression, AE decodes it into the output (red nodes), which would be similar to the input.\n\nThe motivations for using an AE could is to come up with a good representation of the data, in which one can replicate the original data when decoded. Effectively, an AE can encode data into a representation, and reduce the dimensionality of data without losing its\u2019 characteristics.\n\nBelow is a practical example of how a system might work\n\nHere we attempt encode movie ratings data. Let we the suppose the blue lines (weights) are be +1 and black ones to -1. The activation function for the hidden states (green nodes) are Hyperbolic tangent.\n\nGive [1 0 0 0] as inputs, we can envision [1 1] will be our hidden representation, and the output as [2 0 0 -2].\n\nUsing the Softmax at output layer, we can see that the final output is [1 0 0 0], which is identical to the input data.\n\n*Note: In practice this might be considered over-fitting, as an AE serves to reduce noise in the input data. If the output recreated from the hidden state is identical to the input data, one can assume that the AE has not removed much noise.\n\nThe bias term can be represented as such, which a constant that is added to all output nodes (green node on the bottom with +1) ."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-2-2-specifics-on-rnns-5c76b93c99b8?source=user_profile---------3----------------",
+        "title": "[DL Udemy] 2\u20132. Specifics on RNNs \u2013 Won-Joon Choi \u2013",
+        "text": "Compared to vanilla ANNs, RNNs posess the power to combine the input vector with their hidden state vector to create a new state vector. ANNs, set with the fixed hyperparmeters are bound to converge to an approximation of a single function, whereas RNNs, with its continuously updated states, can simulate arbitrary programs. It is known that RNNs are turing-complete in this sense.\n\nIf training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/algorithms-sw-expert-academy-1974-27584c6b0873?source=user_profile---------4----------------",
+        "title": "[Algorithms] SW Expert Academy #1974 \u2013 Won-Joon Choi \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@cwj5050/algorithms-sw-expert-academy-2056-937daf776384?source=user_profile---------5----------------",
+        "title": "[Algorithms] SW Expert Academy #2056 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/sw-expert-academy-d4db7b80ce3f?source=user_profile---------6----------------",
+        "title": "[Algorithms] SW Expert Academy #1244 \u2013 Won-Joon Choi \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-3-2-self-organizing-maps-soms-b8724de4e8d6?source=user_profile---------7----------------",
+        "title": "[DL Udemy] 3\u20132. Self Organizing Maps (SOMs) \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-4-self-organizing-maps-soms-f35b24bfce2a?source=user_profile---------8----------------",
+        "title": "[DL Udemy] 3. Self-organizing Maps (SOMs) \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-3-intuition-into-rnn-lstms-317f2853c72c?source=user_profile---------9----------------",
+        "title": "[DL Udemy] 2. Intuition into RNN & LSTMs \u2013 Won-Joon Choi \u2013",
+        "text": "If we unravel these self-feeding loops, RNNs could be expressed as above.\n\nIn RNNs, the hidden state (blue node) feed on itself whilst giving out an output.\n\nFrontal Lobe \u2014 associated with reward, attention, short-term memory tasks, planning, and motivation. as this part of the brain is driven by Dopamine, it tends to limit and select sensory information depending what it is interested in. We can compare this to RNNs, the network structure fit for short-term memory tasks.\n\nOccipital lobe \u2014 concerned with vision and extracting features from visual input. This is analogous to the how CNNs extract features from given images.\n\nTemporal Lobe\u2014 involved in processing sensory input and retention of such memories. Mainly deals with visual memory, language comprehension, and emotion association. We can think this as similar to how LSTMs work\n\nVarious structures of neural networks can actually be referred to as parts of the brain.\n\nThis characteristic of RNNs allow for many types of tasks:\n\nThis is a simple representation of a LSTM cell, where h(t) denote output of the cell at time step t and C(t) show the hidden cell state at time step t.\n\nAnother thing to note about this diagram is that concatenation is not stacking the vectors on one another or performing element-wise addition. Rather, it is depicted in this diagram in a way to look less confusing. In reality the two pipes flow parallel to each other and get fed in separately.\n\nIntuitively, the input to the activation functions (yellow boxes) are not single neurons but a group of them. Each of these yellow boxes represent a gate, which is described in more details below.\n\nThe Forget gate: determines how much of the h(t-1), the hypothesis at time step t-1 should be applied to the hidden state of the LSTM cell. Note that the sigmoid function is used to tell how much of the past hidden state it should forget or feed in to the current state.\n\nThis gate can be depicted as below:\n\nwhere weights and biases of the forget gate W(f), b(f) are calculated with the past hidden state and current input. This is the basis from which we compute our new hidden state., or how much we \u201cremember\u201d from our previous hidden state.\n\nMemory gate: also known as the input gate, decides how much of the new information should flow through\n\nThe \u201cmemory pipeline\u201d that flows through the cell. This is a combination of the old hidden state and new input, which can be described as below:\n\nOutput gate: the gate that decides what to output. The output from the last cell state h(t-1) and new input X(t) both goes through the sigmoid, becoming vectors of values 0 to 1. The cell state goes through a hyperbolic tangent, pushing all values to -1 to 1.\n\nThese two values are multiplied to decide how much of the cell state we are going to let through as the cell output.\n\nThe previous explanations are on standard LSTMs. Below are two popular variants of LSTMs.\n\nPeepholes allow the gates to \u201cpeep\u201d into the current cell state. This is done by feeding the current cell state to each of the gates, which gives us the equation below\n\nWhere each the weights of the gates W(f), W(i), W(o) has an additional term, C(t-1) to compute the current cell state along with other variables.\n\nGated recurrent units, or GRUs are a simpler variant of LSTMs where the output is its hidden state. This significantly reduces computation and allows for faster training. Also the forget gate and input gate are made into a single gate. This by only computing the sigmoid and subtracting from 1."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/data-architecture-data-modeling-c8544d73f1db?source=user_profile---------10----------------",
+        "title": "[Data Architecture] Data modeling \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/data-modeling-baker-notation-5e1b279c73ef?source=user_profile---------12----------------",
+        "title": "[Data Architecture] Baker Notation \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-2-pooling-flattening-b46ea460e0d0?source=user_profile---------13----------------",
+        "title": "[DL Udemy] 1\u20132. CNN Pooling & Flattening \u2013 Won-Joon Choi \u2013",
+        "text": "Concatenate into vectors to be fed into an ANN\n\nthink of it as a classifier added to the end of feature extractors, with the feature extractors as the convolution & pooling layers on a CNN\n\nAfter flattening we have the same ANN attached at the end to predict outputs. The output"
+    },
+    {
+        "url": "https://medium.com/@cwj5050/dl-udemy-1-intuition-into-convolutional-networks-dfecc6d1a876?source=user_profile---------14----------------",
+        "title": "[DL Udemy] 1. Intuition into Convolutional Networks",
+        "text": "Kernel, Filter, Feature detector = usually 3x3, but other models such as AlexNet use 7x7\n\nElement-wise multiplication and sum them to a single digit\n\nNotice how the feature map is the highest (4) where the part of the input image matches most with the feature map\n\nWe can use these feature maps as filters on pictures to get images like on the right.\n\nIntuitively, the filter on the left has -4 in the middle, meaning that pictures with this filter applied has its middle pixels watered down, leaving only the edges."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-1158-30d324964a06?source=user_profile---------15----------------",
+        "title": "Baekjoon #1158 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-14502-a48257a2b27a?source=user_profile---------16----------------",
+        "title": "Baekjoon #14502 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-1520-7bb201eb7103?source=user_profile---------17----------------",
+        "title": "Baekjoon #1520 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/nlp-research-01-08-67961a9f7a52?source=user_profile---------18----------------",
+        "title": "NLP Research 01/08 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/nlp-research-01-07-e76db3b1fda5?source=user_profile---------19----------------",
+        "title": "NLP research 01/07 \u2013 Won-Joon Choi \u2013",
+        "text": "Given a corpus, how would one might automate the process of detecting latent topics?\n\n1. Thorough preprocessing with linguistics properties in mind\n\n2. Clustering via K-means \u2014 Verification of K through the Elbow method and Ward (Hierarchical Aggolmerative clustering)\n\n3. Assuming the mass has been properly divided, apply Latent Dirichlet Allocation on each cluster \u2014 the number of LDA topics are automated by log(w|T)"
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-2178-ebb5d7f40096?source=user_profile---------20----------------",
+        "title": "Baekjoon #2178 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-14888-cca3193e2169?source=user_profile---------21----------------",
+        "title": "Baekjoon #14888 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-1475-41ccc36ae8dc?source=user_profile---------22----------------",
+        "title": "Baekjoon #1475 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-10988-a02e1b18c51f?source=user_profile---------23----------------",
+        "title": "Baekjoon #10988 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-7576-c524afaa7a13?source=user_profile---------24----------------",
+        "title": "Baekjoon #7576 \u2013 Won-Joon Choi \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-2902-6d3ad743f149?source=user_profile---------25----------------",
+        "title": "Baekjoon #2902 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-1931-eaada094abe9?source=user_profile---------26----------------",
+        "title": "Baekjoon #1931 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/%EB%AC%B8%EC%A0%9C-a9a47fb45c2a?source=user_profile---------27----------------",
+        "title": "Baekjoon #1049 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-2573-582a56980dbe?source=user_profile---------28----------------",
+        "title": "Baekjoon #2573 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-3613-cf23ad2fef1b?source=user_profile---------29----------------",
+        "title": "Baekjoon #3613 \u2013 Won-Joon Choi \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-9996-470693922358?source=user_profile---------30----------------",
+        "title": "Baekjoon #9996 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/baekjoon-2775-d74c9fd54ab6?source=user_profile---------31----------------",
+        "title": "BaekJoon #2775 \u2013 Won-Joon Choi \u2013",
+        "text": ""
+    },
+    {
+        "url": "https://medium.com/@cwj5050/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%AA%A8%EC%9D%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-2%EB%B2%88-5ea6daab15c3?source=user_profile---------32----------------",
+        "title": "\uce74\uce74\uc624 \ubaa8\uc758\ud14c\uc2a4\ud2b8 \ubb38\uc81c 2\ubc88 \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    },
+    {
+        "url": "https://medium.com/@cwj5050/2017-goals-14d3d1d0a40?source=user_profile---------33----------------",
+        "title": "2017 Goals \u2013 Won-Joon Choi \u2013",
+        "text": "One clap, two clap, three clap, forty?\n\nBy clapping more or less, you can signal to us which stories really stand out."
+    }
+]
