@@ -1,3 +1,13 @@
+## Data Format
+* articles.json
+  - 'url': url of the article
+  - 'title': title of the article
+  - 'text': content text of the article
+  - 'website': website domain name
+  - 'tag': (not required) could be tag, author name, or empty based on different websites
+  - 'date': (not required) date of the article, could be empty
+  
+  
 ## How to import to database
 * All data are named "articles.json" under the root directory: /disk/home/muxu/BlogsData
 * Run upload_to_poqaa.py
