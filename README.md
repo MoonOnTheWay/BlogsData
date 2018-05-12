@@ -1,3 +1,8 @@
+## How to import to database
+* All data are named "articles.json" under the root directory: /disk/home/muxu/BlogsData
+* Run upload_to_poqaa.py
+
+
 ## Data Structure
 
 - Blogs
@@ -15,6 +20,7 @@
         - articles.json
       - ...
   - deeplearning4j
+    - articles.json
 
 
 `Note:`  
