@@ -7,6 +7,7 @@
 - towardsdatascience.com/archive/2015/01/01 
 - https://www.analyticsvidhya.com/blog/page/1/
 - https://www.kdnuggets.com/tag/deep-learning/page/6
+- http://deeplearning.net/tutorial/contents.html
 
 
 ## Data Format
