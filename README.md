@@ -9,6 +9,10 @@
 - https://www.kdnuggets.com/tag/deep-learning/page/6
 - http://deeplearning.net/tutorial/contents.html
 - https://blog.acolyer.org/
+- http://neuralnetworksanddeeplearning.com/
+- https://www.kaggle.com/kernels
+- https://devblogs.nvidia.com/tag/deep-learning/#
+- https://hackernoon.com/archive/2018/05/01
 
 
 ## Data Format
