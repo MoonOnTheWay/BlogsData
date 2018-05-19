@@ -1,10 +1,10 @@
 ## Crawled Websites
 - https://medium.com/tag/deep-learning/archive/2015/01, by tag and user
-- deeplearning4j, small number of tutorials
+- https://deeplearning4j.org/documentation, small number of tutorials
 - https://theneuralperspective.com/tag/tutorials/, https://theneuralperspective.com/tag/readings/ small number of tutorials
 - https://research.fb.com/blog/page/2/ 
-- machinelearningmastery.com/blog/page/1 
-- towardsdatascience.com/archive/2015/01/01 
+- https://machinelearningmastery.com/blog/page/2/
+- https://towardsdatascience.com/archive/2015/01/01 
 - https://www.analyticsvidhya.com/blog/page/1/
 - https://www.kdnuggets.com/tag/deep-learning/page/6
 - http://deeplearning.net/tutorial/contents.html
