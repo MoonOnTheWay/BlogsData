@@ -15,6 +15,7 @@
 - https://hackernoon.com/archive/2018/05/01
 - https://www.tensorflow.org/tutorials/
 - http://cs231n.github.io/
+- http://neuralnetworksanddeeplearning.com/chap1.html
 
 ## Data Format
 * articles.json
