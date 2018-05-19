@@ -16,6 +16,7 @@
 - https://www.tensorflow.org/tutorials/
 - http://cs231n.github.io/
 - http://neuralnetworksanddeeplearning.com/chap1.html
+- https://medium.freecodecamp.org/tagged/machine-learning/
 
 ## Data Format
 * articles.json
