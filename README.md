@@ -14,7 +14,7 @@
 - https://devblogs.nvidia.com/tag/deep-learning/#
 - https://hackernoon.com/archive/2018/05/01
 - https://www.tensorflow.org/tutorials/
-
+- http://cs231n.github.io/
 
 ## Data Format
 * articles.json
