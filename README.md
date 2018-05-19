@@ -19,6 +19,7 @@
 - http://neuralnetworksanddeeplearning.com/chap1.html
 - https://medium.freecodecamp.org/tagged/machine-learning/
 - https://becominghuman.ai/archive/2017/01
+- https://www.jeremyjordan.me/data-science/
 
 ## Data Format
 * articles.json
