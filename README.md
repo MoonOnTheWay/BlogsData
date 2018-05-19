@@ -17,6 +17,7 @@
 - http://cs231n.github.io/
 - http://neuralnetworksanddeeplearning.com/chap1.html
 - https://medium.freecodecamp.org/tagged/machine-learning/
+- https://becominghuman.ai/archive/2017/01
 
 ## Data Format
 * articles.json
