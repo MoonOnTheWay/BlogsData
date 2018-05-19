@@ -1,7 +1,8 @@
 ## Crawled Websites
-- https://medium.com/tag/deep-learning/archive/2015/01, by tag and user
-- https://deeplearning4j.org/documentation, small number of tutorials
-- https://theneuralperspective.com/tag/tutorials/, https://theneuralperspective.com/tag/readings/ small number of tutorials
+- https://medium.com/tag/deep-learning/archive/2015/01/01, by tag
+- https://medium.com/@shagun/latest, by user
+- https://deeplearning4j.org/documentation
+- https://theneuralperspective.com/tag/tutorials/, https://theneuralperspective.com/tag/readings/
 - https://research.fb.com/blog/page/2/ 
 - https://machinelearningmastery.com/blog/page/2/
 - https://towardsdatascience.com/archive/2015/01/01 
