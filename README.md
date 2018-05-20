@@ -25,6 +25,8 @@
 - http://ruder.io/index.html#open
 - http://ufldl.stanford.edu/tutorial/
 - http://www.wildml.com/2016/08/
+- https://codeburst.io/tagged/artificial-intelligence
+- https://www.datacamp.com/community/tutorials?page=9
 
 ## Data Format
 * articles.json
