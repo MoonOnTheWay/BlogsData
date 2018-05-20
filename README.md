@@ -24,6 +24,7 @@
 - https://www.microsoft.com/developerblog/tag/deep-learning
 - http://ruder.io/index.html#open
 - http://ufldl.stanford.edu/tutorial/
+- http://www.wildml.com/2016/08/
 
 ## Data Format
 * articles.json
