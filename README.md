@@ -31,6 +31,7 @@
 - https://www.oreilly.com/ideas/topics/ai/page/4, https://www.oreilly.com/learning/topics/ai
 - https://wiki.tum.de/display/lfdv/Advanced+Level, https://wiki.tum.de/display/lfdv/Basic+Level
 - http://adventuresinmachinelearning.com/
+- https://analyticsindiamag.com/category/learning-corner/page/3/
 
 ## Data Format
 * articles.json
