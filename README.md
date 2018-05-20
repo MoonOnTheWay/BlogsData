@@ -34,6 +34,8 @@
 - https://analyticsindiamag.com/category/learning-corner/page/3/
 - https://ayearofai.com/latest
 - https://deepmind.com/blog/?page=2
+- https://machinelearnings.co/latest
+- https://aws.amazon.com/cn/blogs/machine-learning/page/20/
 
 ## Data Format
 * articles.json
