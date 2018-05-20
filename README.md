@@ -20,6 +20,10 @@
 - https://medium.freecodecamp.org/tagged/machine-learning/
 - https://becominghuman.ai/archive/2017/01
 - https://www.jeremyjordan.me/data-science/
+- https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/
+- https://www.microsoft.com/developerblog/tag/deep-learning
+- http://ruder.io/index.html#open
+- http://ufldl.stanford.edu/tutorial/
 
 ## Data Format
 * articles.json
