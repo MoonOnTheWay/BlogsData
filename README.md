@@ -27,6 +27,8 @@
 - http://www.wildml.com/2016/08/
 - https://codeburst.io/tagged/artificial-intelligence
 - https://www.datacamp.com/community/tutorials?page=9
+- https://dzone.com/artificial-intelligence-tutorials-tools-news/list?page=23
+- https://www.oreilly.com/ideas/topics/ai/page/4, https://www.oreilly.com/learning/topics/ai
 
 ## Data Format
 * articles.json
