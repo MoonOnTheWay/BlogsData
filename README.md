@@ -32,6 +32,8 @@
 - https://wiki.tum.de/display/lfdv/Advanced+Level, https://wiki.tum.de/display/lfdv/Basic+Level
 - http://adventuresinmachinelearning.com/
 - https://analyticsindiamag.com/category/learning-corner/page/3/
+- https://ayearofai.com/latest
+- https://deepmind.com/blog/?page=2
 
 ## Data Format
 * articles.json
