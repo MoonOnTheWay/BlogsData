@@ -36,6 +36,8 @@
 - https://deepmind.com/blog/?page=2
 - https://machinelearnings.co/latest
 - https://aws.amazon.com/cn/blogs/machine-learning/page/20/
+- https://www.learnopencv.com/page/18/
+- http://mccormickml.com/page12/
 
 ## Data Format
 * articles.json
