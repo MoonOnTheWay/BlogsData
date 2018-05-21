@@ -38,6 +38,7 @@
 - https://aws.amazon.com/cn/blogs/machine-learning/page/20/
 - https://www.learnopencv.com/page/18/
 - http://mccormickml.com/page12/
+- http://ml-cheatsheet.readthedocs.io/en/latest/
 
 ## Data Format
 * articles.json
