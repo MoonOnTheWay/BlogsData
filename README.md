@@ -48,6 +48,7 @@
 - https://datascience.stackexchange.com/questions?page=30&sort=frequent
 - http://ischlag.github.io/
 - https://medium.com/@karpathy/latest
+- http://kvfrans.com/page/2/
 
 
 ## Data Format
