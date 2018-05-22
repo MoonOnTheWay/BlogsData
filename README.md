@@ -49,7 +49,8 @@
 - http://ischlag.github.io/
 - https://medium.com/@karpathy/latest
 - http://kvfrans.com/page/2/
-
+- http://machinelearninguru.com/blog.php
+- https://mattmazur.com/2018/05/18/
 
 ## Data Format
 * articles.json
