@@ -39,6 +39,10 @@
 - https://www.learnopencv.com/page/18/
 - http://mccormickml.com/page12/
 - http://ml-cheatsheet.readthedocs.io/en/latest/
+- https://medium.com/neuromation-io-blog/latest
+- http://blog.aylien.com/category/data-science/page/3/, http://blog.aylien.com/category/research/page/3/
+- http://blog.datumbox.com/page/2/
+
 
 ## Data Format
 * articles.json
