@@ -42,6 +42,10 @@
 - https://medium.com/neuromation-io-blog/latest
 - http://blog.aylien.com/category/data-science/page/3/, http://blog.aylien.com/category/research/page/3/
 - http://blog.datumbox.com/page/2/
+- https://blog.slavv.com/latest
+- http://colah.github.io/
+- https://danijar.com/blog/
+- https://datascience.stackexchange.com/questions?page=30&sort=frequent
 
 
 ## Data Format
