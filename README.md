@@ -46,6 +46,8 @@
 - http://colah.github.io/
 - https://danijar.com/blog/
 - https://datascience.stackexchange.com/questions?page=30&sort=frequent
+- http://ischlag.github.io/
+- https://medium.com/@karpathy/latest
 
 
 ## Data Format
