@@ -51,6 +51,10 @@
 - http://kvfrans.com/page/2/
 - http://machinelearninguru.com/blog.php
 - https://mattmazur.com/2018/05/18/
+- http://www.offconvex.org/page2/
+- https://www.pyimagesearch.com/page/26/
+- https://www.r-bloggers.com/page/2/
+
 
 ## Data Format
 * articles.json
