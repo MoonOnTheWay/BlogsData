@@ -1,0 +1,54 @@
+[
+    {
+        "url": "https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428?source=collection_archive---------0----------------", 
+        "papers": [
+            "https://www.sciencedirect.com/science/article/pii/S0167865508002687/pdfft?md5=62b5b9cf449fcaae4603839d7e345c14&pid=1-s2.0-S0167865508002687-main.pdf", 
+            "https://www.sciencedirect.com/science/article/pii/S0306437903000723/pdfft?md5=8f78fd4dfef35c7ca5a11c77fa917892&pid=1-s2.0-S0306437903000723-main.pdf"
+        ]
+    }, 
+    {
+        "url": "https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f?source=collection_archive---------1----------------", 
+        "papers": [
+            "https://arxiv.org/pdf/1610.02357v2", 
+            "https://arxiv.org/pdf/1412.6553", 
+            "https://arxiv.org/pdf/1512.00567v1.pdf", 
+            "https://arxiv.org/pdf/1605.07146v1.pdf"
+        ]
+    }, 
+    {
+        "url": "https://towardsdatascience.com/automold-specialized-augmentation-library-for-autonomous-vehicles-1d085ed1f578?source=collection_archive---------2----------------", 
+        "papers": []
+    }, 
+    {
+        "url": "https://towardsdatascience.com/back-to-basics-deriving-back-propagation-on-simple-rnn-lstm-feat-aidan-gomez-c7f286ba973d?source=collection_archive---------3----------------", 
+        "papers": []
+    }, 
+    {
+        "url": "https://towardsdatascience.com/exploring-the-meaning-of-ai-data-science-and-machine-learning-with-the-latest-wikipedia-5fea5f0a2d46?source=collection_archive---------4----------------", 
+        "papers": []
+    }, 
+    {
+        "url": "https://towardsdatascience.com/beyond-the-hype-the-value-of-machine-learning-and-ai-artificial-intelligence-for-businesses-892128f12dd7?source=collection_archive---------5----------------", 
+        "papers": []
+    }, 
+    {
+        "url": "https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907?source=collection_archive---------6----------------", 
+        "papers": [
+            "http://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf"
+        ]
+    }, 
+    {
+        "url": "https://towardsdatascience.com/an-intro-to-kalman-filters-for-autonomous-vehicles-f43dd2e2004b?source=collection_archive---------7----------------", 
+        "papers": [
+            "https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf"
+        ]
+    }, 
+    {
+        "url": "https://towardsdatascience.com/3-ways-non-profits-use-emerging-technology-to-further-donor-dollars-and-how-you-can-too-6e4d02ee2569?source=collection_archive---------8----------------", 
+        "papers": []
+    }, 
+    {
+        "url": "https://towardsdatascience.com/infographic-marketing-10-small-things-that-can-make-a-big-difference-92f18951f54a?source=collection_archive---------9----------------", 
+        "papers": []
+    }
+]
