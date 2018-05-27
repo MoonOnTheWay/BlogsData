@@ -1,3 +1,26 @@
+## Data Format
+* blog_paper_pairs.json
+  - 'blog_url': url of the article
+  - 'blog_text': full texts of the article (extracted using Goose)
+  - 'blog_keywords': list of keywords extracted from full texts (using rake-nltk)
+  - 'papers': list of paper related to the article
+    - 'paper_url': url of each paper
+    - 'paper_text': title + abstract of each paper (downloaded using urlretrieve, extracted using pdfminer)
+    - 'paper_keywords': list of keywords extracted from abstract of the paper (using rake-nltk)
+  
+* linked_papers.json
+  - 'url': url of the article
+  - 'papers': list of paper urls extracted from the article
+
+* articles.json
+  - 'url': url of the article
+  - 'title': title of the article
+  - 'text': content text of the article
+  - 'website': (not required) website domain name
+  - 'tag': (not required) could be tag, author name, or empty based on different websites
+  - 'date': (not required) date of the article, could be empty
+  
+  
 ## Crawled Websites
 - https://medium.com/tag/deep-learning/archive/2015/01/01, by tag
 - https://medium.com/@shagun/latest, by user
@@ -55,15 +78,6 @@
 - https://www.pyimagesearch.com/page/26/
 - https://www.r-bloggers.com/page/2/
 
-
-## Data Format
-* articles.json
-  - 'url': url of the article
-  - 'title': title of the article
-  - 'text': content text of the article
-  - 'website': website domain name
-  - 'tag': (not required) could be tag, author name, or empty based on different websites
-  - 'date': (not required) date of the article, could be empty
   
   
 ## How to import to database
