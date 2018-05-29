@@ -131,7 +131,7 @@ articles.json contains the links, titles, and texts of articles
          - Top writers only under artificial-intelligence: https://medium.com/tag/artificial-intelligence/top-writers
          - All history blogs: https://medium.com/tag/artificial-intelligence/archive/2017/01/01
      
-   - Under UserID: https://medium.com/
+   - Under UserID: https://medium.com/@IntuitMachine/latest
      - The IDs can be extracted from
        - Base: https://medium.com/tag/artificial-intelligence/top-writers
        - Dynamically added from: latest stories’ authors(monitoring new authors)
