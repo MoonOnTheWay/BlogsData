@@ -115,16 +115,7 @@ articles.json contains the links, titles, and texts of articles
 ## Architecture for crawling Medium
 
 1. medium.com
-   - Under Tag: https://medium.com/tag/
-     - deep-learning
-     - machine-learning
-     - artificial-intelligence
-     - ai
-     - computer-vision
-     - neural-networks
-     - data-science
-     - nlp
-     - naturallanguageprocessing
+   - Under Tag: https://medium.com/tag/artificial-intelligence
        - Under each tag:
          - Top stories: https://medium.com/tag/neural-networks
          - Latest Stories: https://medium.com/tag/neural-networks/latest
