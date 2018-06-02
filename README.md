@@ -119,9 +119,9 @@ articles.json contains the links, titles, and texts of articles
        - Under each tag:
          - Top stories: https://medium.com/tag/neural-networks
          - Latest Stories: https://medium.com/tag/neural-networks/latest
-         - Top writers only under artificial-intelligence: https://medium.com/tag/artificial-intelligence/top-writers
          - All history blogs: https://medium.com/tag/artificial-intelligence/archive/2017/01/01
-     
+         - Top writers: https://medium.com/tag/artificial-intelligence/top-writers
+
    - Under UserID: https://medium.com/@IntuitMachine/latest
      - The IDs can be extracted from
        - Base: https://medium.com/tag/artificial-intelligence/top-writers
