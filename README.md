@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1UVpz1pxvqckHqzREAUcwi6p17unVyfbEJTHBBN18Rk8/
 - https://www.analyticsvidhya.com/blog/page/1/
 - https://www.kdnuggets.com/tag/deep-learning/page/6
 - http://deeplearning.net/tutorial/contents.html
-- https://blog.acolyer.org/
+- https://blog.acolyer.org/2017/05/05/
 - http://neuralnetworksanddeeplearning.com/
 - https://www.kaggle.com/kernels
 - https://devblogs.nvidia.com/tag/deep-learning/#
