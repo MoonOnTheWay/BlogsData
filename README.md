@@ -1,3 +1,9 @@
+## Detailed Description
+https://docs.google.com/document/d/1K5yPhdy8FkSTsKnwMEHkopyy2D8NtYaD3-m8h7nZBdw/edit?usp=sharing
+
+## Project Report
+https://docs.google.com/document/d/1UVpz1pxvqckHqzREAUcwi6p17unVyfbEJTHBBN18Rk8/edit?usp=sharing
+
 ## Data Format
 * blog_paper_pairs.json
   - 'blog_url': url of the article
