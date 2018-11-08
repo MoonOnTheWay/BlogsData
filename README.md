@@ -1,4 +1,8 @@
 ## Detailed Description
+Latest:
+https://docs.google.com/document/d/14Deb-k031A-wUiR3ifdMr3lVuz9sOsmHXI7wC5UDito/edit?usp=sharing
+
+Old:
 https://docs.google.com/document/d/1K5yPhdy8FkSTsKnwMEHkopyy2D8NtYaD3-m8h7nZBdw/edit?usp=sharing
 
 ## Project Report
